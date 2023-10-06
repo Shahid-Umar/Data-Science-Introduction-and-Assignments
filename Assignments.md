@@ -67,3 +67,13 @@ For detail visit https://www.techtarget.com/whatis/feature/12-of-the-best-large-
 
 > # Day-3 Assignment-2
 > ### *Which extention is best for which liberary*
+
+
+> # Day-4 Assignment-1
+>  ### *Extensions that are used for data analysis*
+> 
+1. ***Python Indent:*** When you type a line of code and Enter, it will provide you with the correct Python indentation.
+2. ***DVC Extension:*** Every data team depends on it to version the dataset for reproducibility purposes. DVC extension makes large file versioning simpler and easier.
+3. ***Excel Viewer:*** Excel Viewer is a simple VS Code extension that previews Excel and CSV files on the IDE.
+4. ***Data Wrangler:*** Data Wrangler can be used on any comma seperated value (.csv) data file or on any Pandas data frame in a Jupyter notebook.
+5. ***SandDance for VSCode:*** Interactive data analysis tool for previewing data files to Visual Studio Code this extension can be used on any comma or tab separated value (.csv or .tsv) data file,
