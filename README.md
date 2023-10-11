@@ -4,7 +4,8 @@ This file authored by : *Shahid Umar*\
 Course Language : *Urdu*\
 Computer Language Use In Course : *Python*\
 Course Stated : *01 October 2023*\
-Course Website : *[Click Here](https://codanics.com/courses/six-months-of-ai-and-data-science-mentorship-program/)*
+Course Website : *[Click Here](https://codanics.com/courses/six-months-of-ai-and-data-science-mentorship-program/)*\
+Email to me : shahidumar@mail.com
 
 
 > ## What will we learn in this course?
