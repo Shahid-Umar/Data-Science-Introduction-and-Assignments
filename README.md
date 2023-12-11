@@ -1,16 +1,16 @@
 > # This Course is About Data Science with AI in 6 Months By Dr. Ammar Tufail
 
-This file authored by : *Shahid Umar*\
+This file is authored by : *Shahid Umar*\
 Course Language : *Urdu*\
 Computer Language Use In Course : *Python*\
 Course Stated : *01 October 2023*\
 Course Website : *[Click Here](https://codanics.com/courses/six-months-of-ai-and-data-science-mentorship-program/)*\
-Email to me : shahidumar@mail.com
+Email to me: shahidumar@mail.com
 
 
 > ## What will we learn in this course?
 
-In this course we will learn the undermentioned skill gradually
+In this course, we will learn the undermentioned skill gradually
 
 1. 🔥Python Programming (Zero-Hero)
 2. 🔥Data Science/Analytics (Zero to advance)
